@@ -2,14 +2,6 @@
 
 Welcome to **Dabi's Portfolio** – a clean, responsive, and modern personal portfolio website designed and developed by **Sanjan Vishwakarma**. Built using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript (ES6+)**, this project highlights my web development skills, projects, certifications, and contact information.
 
-![image](https://github.com/user-attachments/assets/343a44c2-7621-45c7-a4b6-660416e38a9c)
-
-![image](https://github.com/user-attachments/assets/17c85e91-ce17-4e79-b869-f8650f82677a)
-
-![image](https://github.com/user-attachments/assets/17b2b48c-8544-423e-952e-13e3dbd8473d)
-
-![image](https://github.com/user-attachments/assets/6a69ed61-33b7-401f-bafb-edb5ee3e7358)
-
 ---
 
 ## 🧠 About Me
@@ -38,4 +30,12 @@ Hi, I’m **Sanjan Vishwakarma**, a BCA student based in Goa, India. I'm passion
 - JavaScript (ES6+)
 - Font Awesome Icons
 - APIs (for dynamic project interaction)
+
+![image](https://github.com/user-attachments/assets/343a44c2-7621-45c7-a4b6-660416e38a9c)
+
+![image](https://github.com/user-attachments/assets/17c85e91-ce17-4e79-b869-f8650f82677a)
+
+![image](https://github.com/user-attachments/assets/17b2b48c-8544-423e-952e-13e3dbd8473d)
+
+![image](https://github.com/user-attachments/assets/6a69ed61-33b7-401f-bafb-edb5ee3e7358)
 
