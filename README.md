@@ -2,6 +2,9 @@
 
 Welcome to **Dabi's Portfolio** – a clean, responsive, and modern personal portfolio website designed and developed by **Sanjan Vishwakarma**. Built using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript (ES6+)**, this project highlights my web development skills, projects, certifications, and contact information.
 
+![image](https://github.com/user-attachments/assets/6a69ed61-33b7-401f-bafb-edb5ee3e7358)
+
+
 ---
 
 ## 🧠 About Me
